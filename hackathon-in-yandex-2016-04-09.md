@@ -4,10 +4,10 @@ A week ago I took part in the hackathon in Yandex. It was a small and local(for 
 and friends. It was a very technical hackathon about tools for developers like loaders, builders, template engines.
 So developers were doing something for themselves.
 
-So how did I get there if I'm not a yandexoid - my college Anton invited me because we were doing stuff related
-to Yandex on my current job. It's an interesting project - I'll say a few words about it later - but I couldn't
-find time for it because of other duties. So this hackathon became a great opportunity to find time and complete
-the project.
+So how did I get there if I'm not a yandexoid - my college [Anton](https://github.com/awinogradov) invited me because
+we were doing stuff related to Yandex on my current job. It's an interesting project - I'll say a few words about it
+later - but I couldn't find time for it because of other duties. So this hackathon became a great opportunity to find
+time and complete the project.
 
 A few words about our project. [BEMXJST](https://github.com/bem/bem-xjst) is a declarative template engine, very
 flexible and powerful. So you can describe some structures using logic and domain-specific functions. Also, there is
