@@ -38,4 +38,4 @@ I also felt the engineering culture that exists in Yandex and it's great.
 
 Finally, we've done our tasks and created a pull request into the main project.
 
-More details in russian [here](https://github.com/bem/bem-xjst/pull/235).
+More details in russian [here](https://github.com/bem/bem-forum-content-ru/issues/961).
