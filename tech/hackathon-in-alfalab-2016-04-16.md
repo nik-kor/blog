@@ -79,4 +79,4 @@ By the way, taking part in this hackathon was a great idea. My takeaways from it
  - prepare a good presentation
 
 ![late at night]
-(./images/alfa-bot-hackathon.png)
+(../images/alfa-bot-hackathon.png)
