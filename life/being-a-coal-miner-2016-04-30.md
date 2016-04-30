@@ -1,7 +1,7 @@
 # 30/04/2016 Being a coal miner
 
 I'm an alpinist and I want to explain(mostly to myself) why I do this. Why do I have this need - to reflect on it?
-- because mountaineering is a very special kind of activity and it influences other parts of my life - so it's a very
+Because mountaineering is a very special kind of activity and it influences other parts of my life - so it's a very
 important part. It's not just about fitness or being in good shape. No. It's too complex for this. Also, it is risky stuff.
 I would be lying if I say that everything is under control and nothing bad could happen. It really depends.
 So considering this background I'd like to write this post.
