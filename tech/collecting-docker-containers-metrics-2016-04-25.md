@@ -26,8 +26,13 @@ connected to ElasticSearch? - surprisingly there is an official storage driver b
 I spent some time learning how to visualize data in kibana - it's pretty simple BTW. And it worked.
 
 One thing that disappointed me is that Kibana@4.0 doesn't support import/export of visualization and dashboards.
-I believe that there is a possibility of doing this using tools like [elasticdump](https://www.npmjs.com/package/elasticdump)
-but it didn't work for me.
+There is a good tool for it [elasticdump](https://www.npmjs.com/package/elasticdump) - just check the name of kibana's index
+like so:
+
+```
+curl localhost:9200/_cat/indices | grep kibana
+```
+
 
 I love the time we are living because we have such a great tools that solve our needs with ease.
 "Docker Has Turned us All into SysAdmins" - [quote from](https://www.packtpub.com/books/content/docker-has-turned-us-all-sysadmins)
