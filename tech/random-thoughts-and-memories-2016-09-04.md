@@ -26,7 +26,7 @@ Because, of course, we have SSR and without NODE_ENV set up to 'production'.
 What is the takeaway from this story? If parsing the heapdumps gives no clues then find out which dependencies have been
 updated. Also if the leakage is strong then something is wrong with the main library.
 
-## why the front-build-container is failed
+## Why the front-build-container is failed
 
 I'm talking about this one [build-front-container](https://github.com/alfa-bank-dev/build-front-container). So why did
 it fail? In short, because it's over-complicated and/therefore hard to test and debug.
