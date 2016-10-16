@@ -39,6 +39,6 @@ it causes more harm - for example artifactory returned a 403 error while reading
 The one thing that I didn't know well was npm scope packages. If I have understood correctly, it's a good practice to
 use scope for your native packages - so it won't be messed up with the packages from remote npm. You should use it.
 
-Ok, we fixed our problem/pain and can continue building CD process. We've benefitted from it too - we can run
+Ok, we fixed our problem and can continue building CD process. We've benefitted from it too - we can run
 prepublish scripts and process sources and include only necessary files for distribution. Another thing is that we
 cache remote packages in our servers - so we can get packages faster and don't need internet.
