@@ -20,7 +20,7 @@ out the source code and it told us the same [algorithm](https://github.com/docke
 
 We were thinking about some caches or history of requests but didn't find anything in docs or in code about it.
 
-The next thing we did was turn (not ing) on debug logging for docker daemon. That is simple in RHEL like:
+The next thing we did was turn on debug logging for docker daemon. That is simple in RHEL like:
 
 ```
 vi  /etc/sysconfig/docker
