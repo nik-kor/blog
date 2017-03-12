@@ -29,6 +29,7 @@ Pros:
  - clearer commits history. It means that you know that every commit was specially made for that program
  - potentially less messy docs - again, because the existing documentation is devoted to one thing
  - good to promote in open source
+ - more flexible for security issues - it's possible to setup different permissions per repo
 
 Cons:
 
@@ -50,6 +51,12 @@ Cons:
  - it takes more time to perform the tests and other checks
  - more complicated CI pipeline because it should know how to build multiple pieces in one place
  - slower builds. Again, because you need to execute more checkouts and, probably, build more than one piece
+
+## My personal choice
+
+I try to keep balance between these archs. For example, I chose monorepo for the applications and it speeded up dev
+process and simplified it. I still prefer keeping system/common libraries in their own repos but i'm thinking to move
+them to the single repo too.
 
 ## Real world examples and links
 
