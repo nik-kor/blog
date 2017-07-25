@@ -1,7 +1,6 @@
 # Why Elmlang is outstanding
 
-![Elm logo]
-(../images/elm-logo.svg)
+![Elm logo](../images/elm-logo.svg)
 
 There is a lot of buzz about Elm language right now. You can find tons of posts about the advantages of this language
 by just googling it or going to http://elm-lang.org/ . I don't want to repeat this other information but will mention
