@@ -23,8 +23,7 @@ friendly, and honest than in a usual environment. I don't know why but it's true
 too and I trust him with my life and he does too. Our trainer Alexey Viktorovich taught us so much about being strong
 in the mountains. And many others. I am grateful to them. But that's not the point of a story. So let's continue.
 
-![people in mountains]
-(../images/people-in-mountains.png)
+![people in mountains](../images/people-in-mountains.png)
 
 Another thing that is great about mountains and not so obvious is that mountains give you an opportunity to become a
 better person. When you are in the mountains you are under pressure and it is the best environment to keep growing and
@@ -47,5 +46,4 @@ And I knew a lot about this. It's a hard and dangerous job. Maybe it's the harde
 the mountains I felt myself like a coal miner from grandpa's tales. If he could hear it he would probably laugh at me.
 And I know, it sounds weird and irrational. But I try to find the truth. Maybe that's my reason for being alpinist.
 
-![our gear]
-(../images/gears.jpg)
+![our gear](../images/gears.jpg)
