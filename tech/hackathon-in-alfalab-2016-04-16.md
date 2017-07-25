@@ -78,5 +78,4 @@ By the way, taking part in this hackathon was a great idea. My takeaways from it
  - choose one main feature of the app. And make it perfect and clear for the audience
  - prepare a good presentation
 
-![late at night]
-(../images/alfa-bot-hackathon.png)
+![late at night](../images/alfa-bot-hackathon.png)
