@@ -55,7 +55,7 @@ docker-compose logs -f connect
 docker-compose exec kafka /bin/kafka-console-consumer --bootstrap-server kafka:9092 --from-beginning --property print.key=true --topic md_debezium.public.t1
 ```
 
-Additional materials are in [assets folder](./assets/debezium) folder.
+Additional materials are in [assets folder](../assets/debezium).
 
 ## [Potential issue]Debezium produces messages from the restored dump
 
