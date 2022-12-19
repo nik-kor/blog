@@ -1,4 +1,4 @@
-# 12/03/2017 Mono/multi repositories approach in organizing your code base
+# Mono/multi repositories approach in organizing your code base
 
 In this post I'll describe my experience in the field of organizing the source code. Mainly, it will be a comparison
 of the two architectures or approaches, as you like to say, for solving a very common problem in software development.

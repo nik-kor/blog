@@ -1,4 +1,4 @@
-# 16/04/2016 AlfaBot Hackathon
+# AlfaBot Hackathon
 
 It happened in the last year on the 4th of December and I wrote this story right after it but didn't publicate it.
 So I decided to do it now just to memorize it. The next goes the original story.

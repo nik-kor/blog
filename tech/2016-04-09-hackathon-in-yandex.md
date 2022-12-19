@@ -1,4 +1,4 @@
-# 09/04/2016 Hackathon in Yandex. How it was
+# Hackathon in Yandex. How it was
 
 A week ago I took part in the hackathon in Yandex. It was a small and local(for Yandex) one, only for yandexoids
 and friends. It was a very technical hackathon about tools for developers like loaders, builders, template engines.

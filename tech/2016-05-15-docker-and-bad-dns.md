@@ -1,4 +1,4 @@
-# 15/05/2016 Docker and bad DNS
+# Docker and bad DNS
 
 My beard is growing fast. This is the second devops post in this blog.
 

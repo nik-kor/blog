@@ -5,7 +5,8 @@ list=""
 
 for i in $(ls tech | sort -r); do
     date=${i:0:10}
-    title=$(echo "$i" | sed "s/$date-//" | sed "s/.md//")
+    title=$(head -1 "tech/$i" | sed 's/# //g')
+    # title=$(echo "$i" | sed "s/$date-//" | sed "s/.md//")
     list+="- [$date $title](./tech/$i)\n";
 done
 

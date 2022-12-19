@@ -1,4 +1,4 @@
-# 25/04/2016 Collecting docker container metrics
+# Collecting docker container metrics
 
 Our system didn’t perform well during highload testing. We had Zabbix to collect some system metrics but they were
 sometimes weird and we didn't trust them, also we run our apps inside docker so we wanted to see how resources were

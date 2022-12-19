@@ -1,4 +1,4 @@
-# 12/11/2016 Good practices in Scrum
+# Good practices in Scrum
 
 I'd like to write about my experience about Scrum and some recent insights into it.
 A few years ago I first discovered Scrum and was keen to use it in my daily practice. I started from scratch and my

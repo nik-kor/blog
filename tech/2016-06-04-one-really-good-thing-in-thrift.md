@@ -1,4 +1,4 @@
-# 05/06/2016 One really good thing in Thrift
+# One really good thing in Thrift
 
 What is Thrift in a few words:
 
