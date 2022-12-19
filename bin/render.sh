@@ -4,7 +4,9 @@ set -Eeuo pipefail
 list=""
 
 for i in $(ls tech | sort -r); do
-    list+="- [$i](./tech/$i)\n";
+    date=${i:0:10}
+    title=$(echo "$i" | sed "s/$date-//" | sed "s/.md//")
+    list+="- [$date $title](./tech/$i)\n";
 done
 
 echo -e "\n[//]: # (RENDERED BASED ON README-template.md)" > README.md
